@@ -1,4 +1,4 @@
-# Sales-Point-Software-Design-and-Architecture--Project
+ # Sales-Point-Software-Design-and-Architecture--Project
  #  A modular sales management platform developed with a focus on Software Design & Architecture (SDA) principles and robust documentation.
   #  Project OverviewThe Sales Point system :
   is designed to automate day-to-day sales operations, including managing products, customers, carts, orders, and payments. It aims to solve common issues like inaccurate inventory, slow billing, and scattered order records.
